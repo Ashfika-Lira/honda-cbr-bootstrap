@@ -1,0 +1,21 @@
+.custom-bg{
+    background-color: #264653;
+    color: #FFFFFF;
+}
+.btn-new{
+    color: #FFFFFF;
+    background-color: #E76F51;
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+}
+.colored-text{
+    color: #E76F51;
+}
+.grayscale img{
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+.colored-name{
+    color: #23A6F0;
+}
